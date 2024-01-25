@@ -1,2 +1,2 @@
 # TO_DO
-Plans your day:D
+Plan your day:D
